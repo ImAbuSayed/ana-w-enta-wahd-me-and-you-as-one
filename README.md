@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> في عيونك شفت أحلامي بتنادي
+> يا حياتي إنتِ ونوري في ليالي
+> خدني في حضنك نسيني كل الخوف
+> في قلبي نار وحبك أحلى طيف
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
