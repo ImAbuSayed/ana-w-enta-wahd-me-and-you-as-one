@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 27, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ana-w-enta-wahd-me-and-you-as-one/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Music Rights & Licensing for Ana W Enta Wahd – Me and You as One](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
